@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9f2353a3d7871b576b5f7b18877d236c1478e977",
+    "author": "Zachary S.L. Foster <zacharyfoster1989@gmail.com>",
+    "time": "2024-02-20 09:10:34",
+    "files": 14,
+    "merge": false,
+    "message": "v0.4.3 release canidate\n"
+  },
+  "repo": "https://github.com/ropensci/taxa",
+  "pkg": "taxa"
+}
