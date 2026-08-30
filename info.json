@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "f8cc3ab7084d86e983c075e22f48a425205eae57",
+    "author": "Zachary Foster <fosterz@pop-os.localdomain>",
+    "time": "2025-07-28T20:21:36Z",
+    "files": 1,
+    "merge": false,
+    "message": "0.4.4 release\n"
+  },
+  "repo": "https://github.com/ropensci/taxa",
+  "pkg": "taxa",
+  "time": "2026-08-30T07:12:16Z"
+}
